@@ -1,4 +1,4 @@
-  Olá! Sou o Felipe Migoto, tenho 19 anos e estou cursando Engenharia Mecânica na Universidade Federal de São Carlos.
+  Olá! Sou o Felipe Migoto, tenho 20 anos e estou cursando Engenharia Mecânica na Universidade Federal de São Carlos.
 Estou atualmente interessado no estudo da ciência de dados e aprendizado de máquina.
 Tenho mais conhecimento das linguagens Python, C e Matlab.
 
